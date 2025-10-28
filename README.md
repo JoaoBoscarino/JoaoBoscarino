@@ -32,4 +32,4 @@
 
 ## 🚀 Portfólio
 
-- **[Portfólio Web](https://joaoboscarino.github.io)** – Meu portfólio pessoal mostrando projetos web
+- **[Portfólio Web](https://joaoboscarino.github.io)** – Meu portfólio pessoal mostrando meus projetos web.
