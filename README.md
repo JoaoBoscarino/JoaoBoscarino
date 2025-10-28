@@ -7,7 +7,7 @@
 
 ## 🛠️ Minhas Skills
 
-<p align="center">
+<p align="left">
   <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -19,7 +19,7 @@
 
 ## 🔗 Redes Sociais
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/joaoboscarino" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
