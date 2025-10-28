@@ -7,41 +7,26 @@
 
 ## 🛠️ Minhas Skills
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><br>
-    HTML
-  </div>
-  <div style="text-align: center;">
-    <img alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><br>
-    CSS
-  </div>
-  <div style="text-align: center;">
-    <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><br>
-    JavaScript
-  </div>
-  <div style="text-align: center;">
-    <img alt="Tailwind" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"><br>
-    Tailwind
-  </div>
-  <div style="text-align: center;">
-    <img alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><br>
-    Git
-  </div>
-</div>
+<p align="center">
+  <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Tailwind" height="50" width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+  <img alt="Git" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+</p>
 
 ---
 
 ## 🔗 Redes Sociais
 
-<div>
+<p align="center">
   <a href="https://www.linkedin.com/in/joaoboscarino" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/jpboscarino" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</div>
+</p>
 
 ---
 
