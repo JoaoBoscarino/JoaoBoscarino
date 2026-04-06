@@ -1,55 +1,94 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:0591E8&height=140&section=header"/>
+# 👋 Olá, eu sou o João
 
-# 👋 Olá, eu sou João
-
-💻 Desenvolvedor Web focado em criar aplicações modernas, funcionais e bem estruturadas.  
-🚀 Sempre buscando evoluir e construir projetos cada vez mais completos.
-
----
-
-## 🧠 Sobre mim
-
-- 🎯 Focado em desenvolvimento front-end
-- ⚡ Criando projetos com JavaScript, React e interfaces modernas
-- 📚 Sempre aprendendo algo novo todos os dias
-- 🛠️ Construindo sistemas reais (loja, pedidos, etc.)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º período)
+💻 Focado em desenvolvimento web
+🚀 Buscando minha primeira oportunidade como estagiário na área de TI
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Tecnologias
 
-<p align="left">
-  <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="Git" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-</p>
-
----
-
-## 📌 Projetos em destaque
-
-- 🛒 Sistema de pedidos com carrinho e integração com WhatsApp  
-- 📦 Loja online com gerenciamento de produtos  
-- 🔐 Sistema com login e painel administrativo  
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* React
+* Tailwind CSS
 
 ---
 
-## 🌐 Contato
+## 📂 Projetos
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/joaoboscarino" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+### 🛒 Nexify Store
 
----
+Loja virtual desenvolvida com HTML, CSS e JavaScript, com sistema de carrinho de compras, controle de produtos, cálculo automático de valores e persistência de dados utilizando localStorage.
 
-## 🚀 Portfólio
-
-🔗 **[Acesse meu portfólio](https://joaoboscarino.github.io)**  
-Confira meus projetos e o que venho desenvolvendo.
+🔗 Em breve...
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0591E8,100:0000FF&height=120&section=footer"/>
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=blue-green)
+
+---
+
+## 📫 Contato
+
+* 📧 Email: [joaoboscarino434@gmail.com](mailto:joaoboscarino434@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/joaoboscarino](http://www.linkedin.com/in/joaoboscarino)
+
+---
+
+## ⚡ Sobre mim
+
+Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando evoluir minhas habilidades através de projetos práticos. Tenho interesse em criar sistemas funcionais e interfaces modernas, focando em performance e experiência do usuário.
+
+Atualmente, estou em busca da minha primeira oportunidade na área de TI para aplicar meus conhecimentos e crescer profissionalmente.
+# 👋 Olá, eu sou o João
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º período)
+💻 Focado em desenvolvimento web
+🚀 Buscando minha primeira oportunidade como estagiário na área de TI
+
+---
+
+## 🚀 Tecnologias
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* React
+* Tailwind CSS
+
+---
+
+## 📂 Projetos
+
+### 🛒 Nexify Store
+
+Loja virtual desenvolvida com HTML, CSS e JavaScript, com sistema de carrinho de compras, controle de produtos, cálculo automático de valores e persistência de dados utilizando localStorage.
+
+🔗 Em breve...
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=blue-green)
+
+---
+
+## 📫 Contato
+
+* 📧 Email: [joaoboscarino434@gmail.com](mailto:joaoboscarino434@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/joaoboscarino](http://www.linkedin.com/in/joaoboscarino)
+
+---
+
+## ⚡ Sobre mim
+
+Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando evoluir minhas habilidades através de projetos práticos. Tenho interesse em criar sistemas funcionais e interfaces modernas, focando em performance e experiência do usuário.
+
+Atualmente, estou em busca da minha primeira oportunidade na área de TI para aplicar meus conhecimentos e crescer profissionalmente.
