@@ -29,7 +29,3 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando evoluir min
 * Tailwind CSS
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoBoscarino\&show_icons=true\&theme=blue-green)
