@@ -31,3 +31,6 @@ Aprofundando em **PHP** e, em seguida, **Laravel**.
 <a href="https://www.linkedin.com/in/joaoboscarino">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
+<a href="mailto:joaoboscarino434@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" />
+</a>
