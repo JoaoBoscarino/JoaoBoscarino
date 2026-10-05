@@ -1,7 +1,7 @@
 <h1 align="center">João Boscarino</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&center=true&vCenter=true&width=520&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Estagi%C3%A1rio+de+desenvolvimento+no+Proderj;Foco+em+back-end%2C+evoluindo+para+full+stack" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&center=true&vCenter=true&width=640&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Estagi%C3%A1rio+de+desenvolvimento+no+Proderj;Foco+em+back-end%2C+evoluindo+para+full+stack" alt="Apresentação animada" />
 </p>
 
 ---
@@ -28,4 +28,6 @@ Aprofundando em **PHP** e, em seguida, **Laravel**.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/joaoboscarino)
+<a href="https://www.linkedin.com/in/joaoboscarino">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
